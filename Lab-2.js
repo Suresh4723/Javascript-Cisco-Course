@@ -12,7 +12,6 @@ let contacts = [{
     email: "libero@convallis.edu" 
 }];
 
-// Add the new contact
 contacts[3]={ 
     name: "Maisie Haley", 
     phone: "0913 531 3030", 
