@@ -10,5 +10,3 @@ console.log(false || false); // -> false
 
 console.log(!true); // -> false
 console.log(!false); // -> true
-
-
